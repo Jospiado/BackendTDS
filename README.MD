@@ -44,6 +44,10 @@ This is an API developed in Java using Spring Boot. It includes classes such as 
 
 These endpoints support CRUD (Create, Read, Update, Delete) operations for their respective entities.
 
+## Frontend Integration
+
+If you wish to use a frontend for this API, you can use the Angular application provided at [https://github.com/Jospiado/angular-front-of-javaAPI](https://github.com/Jospiado/angular-front-of-javaAPI). This Angular application is configured to work with this Java Spring API.
+
 ## Final Considerations
 
 - Make sure MySQL is running before starting the API. If there are any connection issues, double-check the credentials and the database name in the `application.properties` file.
